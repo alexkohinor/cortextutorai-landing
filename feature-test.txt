@@ -1,0 +1,3 @@
+Тестовый файл для проверки создания Pull Request через MCP GitHub сервер
+Дата: 29 сентября 2025
+Ветка: feature/mcp-test-branch
