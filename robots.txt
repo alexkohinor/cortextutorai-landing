@@ -1,0 +1,14 @@
+# Allow all robots complete access
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://cortextutor.ai/sitemap.xml
+
+# Prevent access to admin and API routes
+Disallow: /api/
+Disallow: /admin/
+Disallow: /_next/static/
+
+# Crawl-delay for all bots
+Crawl-delay: 10 

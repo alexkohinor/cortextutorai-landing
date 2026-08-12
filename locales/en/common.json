@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "slogan": "Created for difference. Made for everyone.",
+    "description": "AI-first platform for learning, originally designed to support people with developmental differences, adapting to any thinking style.",
+    "requestPitchDeck": "Request Pitch Deck",
+    "watchDemo": "Watch Demo",
+    "choosePath": "Choose your learning path"
+  },
+  "problem": {
+    "title": "Problem",
+    "point1": "Mass education ignores perception differences",
+    "point2": "Special learners are excluded or forced to fit norms",
+    "point3": "EdTech doesn't use AI's full potential as a teacher"
+  },
+  "solution": {
+    "title": "Solution",
+    "point1": "CortexTutorAI is an AI-mentor adapting to cognitive profile, emotions, mistakes, and mimicry",
+    "point2": "Learning becomes truly personalized from scratch"
+  },
+  "audience": {
+    "title": "Who is this for?",
+    "path1": {
+      "title": "I learn like everyone / I want to grow faster",
+      "point1": "Platform helps improve learning, memory, analysis skills",
+      "point2": "Supports adults, students, entrepreneurs, self-learners"
+    },
+    "path2": {
+      "title": "I learn differently / I have a unique learning style",
+      "point1": "Support for ASD, ADHD, dyslexia, anxiety, neurodiversity",
+      "point2": "No pressure. No failures. Respect for your style."
+    }
+  },
+  "how": {
+    "title": "How does CortexTutorAI work?",
+    "step1": "The platform analyzes your thinking style and emotions via tests and facial expressions",
+    "step2": "AI selects individual methods, pace, and learning format",
+    "step3": "You learn with real-time support and feedback"
+  },
+  "whynow": {
+    "title": "Why now?",
+    "point1": "AI and neurotech now enable mass personalized learning for the first time",
+    "point2": "Demand for inclusion and neurodiversity support is growing worldwide",
+    "point3": "Investors seek projects with social mission and scalable market"
+  },
+  "traction": {
+    "title": "Our achievements and social impact",
+    "metric1": "> 10,000 users with developmental differences tested the platform",
+    "metric2": "95% report increased motivation and learning confidence",
+    "metric3": "Partnerships with top universities and inclusive schools"
+  },
+  "team": {
+    "title": "Our Team",
+    "anna": { "name": "Anna Ivanova", "role": "CEO, Founder" },
+    "igor": { "name": "Igor Smirnov", "role": "CTO, AI Engineer" },
+    "maria": { "name": "Maria Li", "role": "UX/UI, Inclusive Design" }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "Who is the platform for?",
+    "a1": "For everyone who wants to learn more effectively: both for people with developmental differences and the general audience.",
+    "q2": "How does personalization work?",
+    "a2": "AI analyzes your thinking style, emotions, and mistakes to select the optimal learning path.",
+    "q3": "Is the platform free to use?",
+    "a3": "Yes, basic features are free. For advanced options — subscription or grants."
+  },
+  "investorForm": {
+    "title": "Investor Application",
+    "name": "Your name",
+    "email": "Contact email",
+    "message": "Comment (optional)",
+    "submit": "Submit application",
+    "success": "Thank you! We will contact you soon.",
+    "error": "Please fill in your name and email."
+  }
+} 

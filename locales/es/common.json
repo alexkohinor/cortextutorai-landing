@@ -1,0 +1,75 @@
+{
+  "hero": {
+    "slogan": "Creado para la diferencia. Hecho para todos.",
+    "description": "Plataforma de aprendizaje AI-first, diseñada originalmente para apoyar a personas con diferencias de desarrollo, adaptándose a cualquier estilo de pensamiento.",
+    "requestPitchDeck": "Solicitar Pitch Deck",
+    "watchDemo": "Ver demo",
+    "choosePath": "Elige tu camino de aprendizaje"
+  },
+  "problem": {
+    "title": "Problema",
+    "point1": "La educación masiva ignora las diferencias de percepción",
+    "point2": "Los estudiantes especiales son excluidos o forzados a adaptarse a las normas",
+    "point3": "EdTech no utiliza el potencial de la IA como docente"
+  },
+  "solution": {
+    "title": "Solución",
+    "point1": "CortexTutorAI es un mentor de IA que se adapta al perfil cognitivo, emociones, errores y mímica",
+    "point2": "El aprendizaje se vuelve realmente personalizado desde cero"
+  },
+  "audience": {
+    "title": "¿Para quién es esto?",
+    "path1": {
+      "title": "Aprendo como todos / Quiero crecer más rápido",
+      "point1": "La plataforma ayuda a mejorar las habilidades de aprendizaje, memoria y análisis",
+      "point2": "Apoya a adultos, estudiantes, emprendedores y autodidactas"
+    },
+    "path2": {
+      "title": "Aprendo de manera diferente / Tengo un estilo de aprendizaje único",
+      "point1": "Soporte para TEA, TDAH, dislexia, ansiedad, neurodiversidad",
+      "point2": "Sin presión. Sin fallos. Respeto por tu estilo."
+    }
+  },
+  "how": {
+    "title": "¿Cómo funciona CortexTutorAI?",
+    "step1": "La plataforma analiza tu estilo de pensamiento y emociones mediante pruebas y expresiones faciales",
+    "step2": "La IA selecciona métodos, ritmo y formato de aprendizaje individualizados",
+    "step3": "Aprendes con apoyo y retroalimentación en tiempo real"
+  },
+  "whynow": {
+    "title": "¿Por qué ahora?",
+    "point1": "La IA y la neurotecnología permiten por primera vez el aprendizaje personalizado a gran escala",
+    "point2": "La demanda de inclusión y apoyo a la neurodiversidad crece en todo el mundo",
+    "point3": "Los inversores buscan proyectos con misión social y mercado escalable"
+  },
+  "traction": {
+    "title": "Nuestros logros e impacto social",
+    "metric1": "> 10,000 usuarios con diferencias de desarrollo probaron la plataforma",
+    "metric2": "El 95% reporta mayor motivación y confianza en el aprendizaje",
+    "metric3": "Alianzas con universidades líderes y escuelas inclusivas"
+  },
+  "team": {
+    "title": "Nuestro equipo",
+    "anna": { "name": "Anna Ivanova", "role": "CEO, Fundadora" },
+    "igor": { "name": "Igor Smirnov", "role": "CTO, Ingeniero de IA" },
+    "maria": { "name": "Maria Li", "role": "UX/UI, Diseño inclusivo" }
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "q1": "¿Para quién es la plataforma?",
+    "a1": "Para todos los que quieren aprender de manera más efectiva: tanto para personas con diferencias de desarrollo como para el público general.",
+    "q2": "¿Cómo funciona la personalización?",
+    "a2": "La IA analiza tu estilo de pensamiento, emociones y errores para seleccionar la mejor ruta de aprendizaje.",
+    "q3": "¿La plataforma es gratuita?",
+    "a3": "Sí, las funciones básicas son gratuitas. Para opciones avanzadas — suscripción o becas."
+  },
+  "investorForm": {
+    "title": "Solicitud de inversor",
+    "name": "Tu nombre",
+    "email": "Correo de contacto",
+    "message": "Comentario (opcional)",
+    "submit": "Enviar solicitud",
+    "success": "¡Gracias! Nos pondremos en contacto pronto.",
+    "error": "Por favor, rellena tu nombre y correo."
+  }
+} 
