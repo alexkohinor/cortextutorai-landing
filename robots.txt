@@ -1,14 +1,10 @@
-# Allow all robots complete access
+# Доступ открыт всем роботам
 User-agent: *
 Allow: /
 
-# Sitemap location
-Sitemap: https://cortextutor.ai/sitemap.xml
-
-# Prevent access to admin and API routes
+# Скрывать /_next/static/ нельзя: без CSS и JS поисковик видит страницу
+# нерабочей и не может оценить ни вёрстку, ни доступность.
 Disallow: /api/
 Disallow: /admin/
-Disallow: /_next/static/
 
-# Crawl-delay for all bots
-Crawl-delay: 10 
+Sitemap: https://cortextutor.ru/sitemap.xml
